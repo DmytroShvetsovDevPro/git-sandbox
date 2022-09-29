@@ -2,6 +2,11 @@ This is basic config file.
 
 It has all needed information for stable application run.
 
+// This is an important extension of main config file
+// ext 1
+// ext 2
+// ext 3
+
 Next we have 3 rows of configs:
 1. Number one.
 2. Number two.
