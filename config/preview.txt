@@ -1,0 +1,7 @@
+This is additional config file.
+
+It has some additional configs.
+
+Here we have 2 rows of info:
+1. Number one.
+2. Number two.

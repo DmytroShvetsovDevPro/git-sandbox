@@ -1,0 +1,3 @@
+Index feature file.
+
+We need this for initial application run and don't plan to edit it.

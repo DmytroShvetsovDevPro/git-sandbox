@@ -1,0 +1,8 @@
+This is basic config file.
+
+It has all needed information for stable application run.
+
+Next we have 3 rows of configs:
+1. Number one.
+2. Number two.
+3. Number three.
